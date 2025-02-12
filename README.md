@@ -1,4 +1,3 @@
-![Header Image](https://raw.githubusercontent.com/PriyaVj05T/PriyaVj05T/main/assets/header.png)
 
 # 👋 Hi, I'm Priya Vijayvargiya Tejwani  
 ### AI & Data Science | Industrial Automation | IoT & Smart Manufacturing 🚀

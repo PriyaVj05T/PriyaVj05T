@@ -1,7 +1,7 @@
 ![Header Image](https://raw.githubusercontent.com/PriyaVj05T/PriyaVj05T/main/assets/header.png)
 
 # 👋 Hi, I'm Priya Vijayvargiya Tejwani  
-### AI & Data Science Leader | Industrial Automation | IoT & Smart Manufacturing 🚀
+### AI & Data Science | Industrial Automation | IoT & Smart Manufacturing 🚀
 
 - 🏆 **Runner-up** in Siemens Global AI Award for Human Detection System
 - 🎤 **Speaker** at IIT-ISM Dhanbad on Smart Manufacturing & AI

@@ -22,10 +22,6 @@
 
 ---
 
-
-
----
-
 ## 🚀 **Projects & Innovations**
 
 🔹 **Human Detection System** – YOLOv8-based AI safety monitoring system  

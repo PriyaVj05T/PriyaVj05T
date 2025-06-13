@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Priya Vijayvargiya Tejwani  
-### AI & Data Science | Industrial Automation | IoT & Smart Manufacturing 🚀
+### GEN AI & Data Science | Industrial Automation | IoT & Smart Manufacturing 🚀
 
 - 🏆 **Runner-up** in Siemens Global AI Award for Human Detection System
 - 🎤 **Speaker** at IIT-ISM Dhanbad on Smart Manufacturing & AI

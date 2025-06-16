@@ -23,7 +23,7 @@
 
 ## 🚀 **Projects & Innovations**
 
-🔹 **Human Detection System** – YOLOv8-based AI safety monitoring system  
+🔹 **Human Detection System** – YOLOv8-based AI safety monitoring system for manufacturing industry 
 🔹 **Smart Factory Automation (MASS)** – ₹50,00,000 cost savings via AI-powered surveillance  
 🔹 **AI-Powered IoT Dashboard** – Real-time KPI tracking & predictive maintenance  
 🔹 **AI Chatbot** – Gen AI-powered RAG chatbot for customer service  

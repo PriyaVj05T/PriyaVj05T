@@ -24,7 +24,7 @@
 ## 🚀 **Projects & Innovations**
 
 🔹 **Human Detection System** – YOLOv8-based AI safety monitoring system for manufacturing industry   
-🔹 **Smart Factory Automation (MASS)** – ₹50,00,000  per year cost savings via AI-powered surveillance  
+🔹 **Smart Factory Automation (MASS)** – 5 million per year cost savings via AI-powered surveillance  
 🔹 **AI-Powered IoT Dashboard** – Real-time KPI tracking & predictive maintenance  
 🔹 **AI Chatbot** – Gen AI-powered RAG chatbot for customer service  
 🔹 **Malicious Cells Detection** – AI-based anomaly detection for health applications  

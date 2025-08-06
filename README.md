@@ -22,7 +22,7 @@
 ---
 
 ## 🚀 **Projects & Innovations**
-
+🔹 **Industrial RT machine performance Report analysis System** –  LLM based RT analysis which increases efficiency for manufacturing industry   
 🔹 **Human Detection System** – YOLOv8-based AI safety monitoring system for manufacturing industry   
 🔹 **Smart Factory Automation (MASS)** – 5 million per year cost savings via AI-powered surveillance  
 🔹 **AI-Powered IoT Dashboard** – Real-time KPI tracking & predictive maintenance  

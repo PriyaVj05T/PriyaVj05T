@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Priya Vijayvargiya Tejwani  
 ### GEN AI & Data Science | Industrial Automation | IoT & Smart Manufacturing 🚀
 
-- 🏆 **Runner-up** In Siemens' Tech Champ Global AI Award in category Human safety
+- 🏆 **Runner-up** In Siemens' Tech Champ AI Award in category Human safety
 - 🎤 **Speaker** at IIT-ISM Dhanbad on Smart Manufacturing & AI
 - 📖 **Published Author** - AI-based Fault Mitigation in Induction Motors
 - 💡 **Expert in AI, IoT, and Smart Factory Solutions**

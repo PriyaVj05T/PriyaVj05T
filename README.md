@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Priya Vijayvargiya Tejwani  
 ### GEN AI & Data Science | Industrial Automation | IoT & Smart Manufacturing 🚀
 
-- 🏆 **Runner-up** in Siemens Global AI Award for Human Detection System
+- 🏆 **Runner-up** In Siemens' Tech Champ Global AI Award in category Human safety
 - 🎤 **Speaker** at IIT-ISM Dhanbad on Smart Manufacturing & AI
 - 📖 **Published Author** - AI-based Fault Mitigation in Induction Motors
 - 💡 **Expert in AI, IoT, and Smart Factory Solutions**
@@ -23,7 +23,7 @@
 
 ## 🚀 **Projects & Innovations**
 🔹 **Industrial RT machine performance Report analysis System** –  LLM based RT analysis which increases efficiency for manufacturing industry   
-🔹 **Human Detection System** – YOLOv8-based AI safety monitoring system for manufacturing industry   
+🔹 **Detection System for Human Saftey** – YOLOv8-based AI safety monitoring system for manufacturing industry   
 🔹 **Smart Factory Automation (MASS)** – 5 million per year cost savings via AI-powered surveillance  
 🔹 **AI-Powered IoT Dashboard** – Real-time KPI tracking & predictive maintenance  
 🔹 **AI Chatbot** – Gen AI-powered RAG chatbot for customer service  
